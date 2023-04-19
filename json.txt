@@ -1,0 +1,16 @@
+var my_resume{
+            "NAME"        :   "VIMALESHWARAN"
+            "D.O.B"       :   "03-10-1995"
+            "AGE"         :   27
+            "SEX"         :   "MALE"
+        "MARITAL STATUS"   :   "SINGLE"
+        "LOCATION"        :   "VELLORE"
+        "QUALIFICATION"   :   "B.E(MECH)"
+        "WORK EXPERIENCE" :   "17 MONTHS"
+        "COURSE JOINED"   :   "FULLSTACK DEVELOPER"
+        "HOBBY"           :   "PLAYING GAMES"
+        "SALARY EXPECTED" :   "4LAKHS/ANNUM"
+        "MOBILE"          :    8608209056
+        "E-MAIL"          :  "vimalesh114@gmail.com"
+        }
+
